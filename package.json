@@ -1,0 +1,11 @@
+{
+	"name": "hx-compile-core",
+	"version": "1.0.0",
+	"dependencies": {
+		"autoprefixer": "^10.4.16",
+		"clean-css-cli": "^5.6.2",
+		"postcss": "^8.4.31",
+		"postcss-cli": "^10.1.0",
+		"sass": "^1.69.5"
+	}
+}
